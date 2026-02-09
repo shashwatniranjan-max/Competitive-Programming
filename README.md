@@ -8,7 +8,7 @@ I'm a beginner just starting out with programming. My goal is simple — solve a
 
 - 📁 Solutions are written in **C++**
 - 📝 Problem name is mentioned in each solution file
-- 🎯 Problems are mostly from [Codeforces](https://codeforces.com/)
+- 🎯 Problems are mostly from [Codeforces] and [Leetcode](https://codeforces.com/)
 
 ## Codeforces Profile
 
